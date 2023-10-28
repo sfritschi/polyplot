@@ -4,5 +4,5 @@ Compute and plot roots of polynomial in complex plane from coefficients entered 
 # Dependencies
 - LAPACK & BLAS
 - Python 3
--- matplotlib
--- numpy
+    - matplotlib
+    - numpy
